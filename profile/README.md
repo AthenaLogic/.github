@@ -3,4 +3,4 @@
 This is an organization where I put my data science and not-so-much software engineering work.
 
 Things like this:
-![demo](assets/cville-interactive-recording-compressed.mov)
+![demo](assets/cville-interactive-screenshot.png)
